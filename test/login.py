@@ -2,7 +2,7 @@
 
 # Description : 
 # Date : 
-# Author : Jayden.Park (jhbak)
+# Author : Jayden.Park (jhpark)
 
 
 import sys

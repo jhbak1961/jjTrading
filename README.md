@@ -1,4 +1,4 @@
-# jjTradinig (알고리즘 트레이딩)
+# jjTrading (알고리즘 트레이딩)
 
 
 ### 개발환경 
